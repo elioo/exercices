@@ -74,3 +74,13 @@
     display: flex;
     justify-content: space-around;
 }
+
+
+
+#errorbody {
+     
+        display: flex;
+        justify-content: space-around;
+        background-color: black;
+    
+}
